@@ -118,6 +118,7 @@ ansible-playbook -i inventory/prod.yml site.yml
 
 10. Готовый playbook выложите в свой репозиторий, поставьте тег `08-ansible-02-playbook` на фиксирующий коммит, в ответ предоставьте ссылку на него.
 
+[репозиторий c домашней работой `08-ansible-02-playbook`](https://github.com/dmi3x3/08-ansible-02-playbook/tree/08-ansible-02-playbook)
 
 ---
 
