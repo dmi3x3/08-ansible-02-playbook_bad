@@ -1,0 +1,5 @@
+---
+vector_version: "0.22.2"
+vector_packages:
+  - vector-server
+vector_dir: "/opt/vector"
